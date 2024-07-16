@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\rendom10\rendom10\bin\Debug\rendom10.exe.config
+C:\Users\user\Desktop\rendom10\rendom10\bin\Debug\rendom10.exe
+C:\Users\user\Desktop\rendom10\rendom10\bin\Debug\rendom10.pdb
+C:\Users\user\Desktop\rendom10\rendom10\obj\Debug\rendom10.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\rendom10\rendom10\obj\Debug\rendom10.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\rendom10\rendom10\obj\Debug\rendom10.exe
+C:\Users\user\Desktop\rendom10\rendom10\obj\Debug\rendom10.pdb
